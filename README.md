@@ -1,8 +1,9 @@
-# Astro - Part 3 : Components
+# Astro - Part 4 : Layouts
 
-* Practice for Astro **Components**
+* Practice for Astro **Layouts**
+
 * Deployment at Netlify:
-
+* https://docs.astro.build/en/tutorial/4-layouts/1/
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
