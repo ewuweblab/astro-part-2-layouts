@@ -1,9 +1,10 @@
 # Astro - Part 4 : Layouts
 
 * Practice for Astro **Layouts**
-
+    - https://docs.astro.build/en/tutorial/4-layouts/1/
 * Deployment at Netlify:
-* https://docs.astro.build/en/tutorial/4-layouts/1/
+    - https://merry-cannoli-d5dae0.netlify.app/
+
 ## 🚀 Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
